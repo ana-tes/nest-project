@@ -43,6 +43,3 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
-
-
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.
